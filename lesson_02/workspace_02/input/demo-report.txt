@@ -1,0 +1,77 @@
+BÁO CÁO HOẠT ĐỘNG KINH DOANH — THÁNG 3/2026
+TechCorp Vietnam | Phòng Kinh Doanh & Vận Hành
+Người lập: Trần Thị Lan | Ngày: 31/03/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. KẾT QUẢ DOANH THU
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Doanh thu tháng 3:     6.8 tỷ đồng
+Kế hoạch tháng 3:      7.0 tỷ đồng
+Đạt:                   97.1% kế hoạch
+
+So sánh tháng trước:
+- Tháng 2/2026:        5.9 tỷ đồng
+- Tháng 3/2026:        6.8 tỷ đồng
+- Tăng trưởng MoM:     +15.3%
+
+Doanh thu theo kênh:
+- Khách hàng doanh nghiệp (B2B):  5.1 tỷ  (75%)
+- Khách hàng SME:                 1.4 tỷ  (21%)
+- Kênh online:                    0.3 tỷ   (4%)
+
+Top 3 hợp đồng lớn nhất tháng 3:
+1. Vingroup — Gói dịch vụ Enterprise 12 tháng: 1.2 tỷ đồng
+2. FPT Software — Triển khai module HR: 850 triệu đồng
+3. Masan Consumer — Tư vấn chuyển đổi số: 620 triệu đồng
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. TÌNH HÌNH NHÂN SỰ & VẬN HÀNH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Headcount tháng 3:     91 nhân viên (HN: 54, HCM: 37)
+Tuyển mới trong tháng: 4 người (2 Sales, 1 Marketing, 1 IT)
+Nghỉ việc trong tháng: 1 người (Finance)
+Tỷ lệ turnover tháng 3: 1.1%
+
+Tình trạng tuyển dụng đang mở:
+- 2 vị trí Sales Executive khu vực HCM (ưu tiên cao)
+- 1 vị trí Senior Marketing Manager
+
+Đào tạo tháng 3:
+- 12 nhân viên hoàn thành chứng chỉ bảo mật dữ liệu nội bộ
+- Buổi all-hands tháng 3 tổ chức ngày 20/03 — 89/91 nhân viên tham dự
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. VẤN ĐỀ TỒN ĐỌNG & RỦI RO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Vấn đề 1 — Công nợ khó đòi:
+Khách hàng ABC Corp còn nợ 340 triệu đồng từ tháng 1/2026.
+Đã nhắc 3 lần. Dự kiến xử lý pháp lý nếu chưa thanh toán trước 15/04/2026.
+
+Vấn đề 2 — Tồn kho thiết bị:
+Lô thiết bị demo trị giá 180 triệu đồng chưa luân chuyển được 2 tháng.
+Đề xuất: thanh lý 30% với chiết khấu 20% để thu hồi vốn.
+
+Vấn đề 3 — Hệ thống CRM:
+Phiên bản hiện tại (v4.2) sắp hết support từ 01/07/2026.
+IT đang đánh giá 3 giải pháp thay thế: Salesforce, HubSpot, Pipedrive.
+Cần quyết định trước 30/04/2026 để kịp triển khai.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. KẾ HOẠCH THÁNG 4/2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Mục tiêu doanh thu tháng 4:    7.5 tỷ đồng (+10.3% so với tháng 3)
+Số hợp đồng mục tiêu:          18 hợp đồng mới
+
+Ưu tiên hành động:
+1. Chốt hợp đồng Masan Consumer gói mở rộng (dự kiến 400 triệu)
+2. Hoàn thành tuyển dụng 2 Sales Executive HCM trước 20/04
+3. Quyết định giải pháp CRM mới trước 30/04
+4. Thu hồi công nợ ABC Corp — đưa ra quyết định pháp lý nếu cần
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Báo cáo được phê duyệt bởi: Nguyễn Minh Khoa (CEO) — 31/03/2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
