@@ -37,6 +37,7 @@ Chức vụ:
 [Gợi ý]
 - Ngắn gọn: mỗi bullet tối đa 1 dòng
 - Dùng số liệu cụ thể, không dùng từ mơ hồ như "khá tốt", "có vẻ ổn", "tương đối"
+- Ngôn ngữ là gì
 ...
 
 
