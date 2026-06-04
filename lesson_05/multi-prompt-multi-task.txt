@@ -1,0 +1,51 @@
+Content Marketing - Viết → Ảnh → Lịch đăng
+
+Prompt 1: Lên outline bài tuần
+Dựa vào file trend-thang-6.xlsx.
+Lên 7 chủ đề bài Facebook cho tuần tới, target Gen Z, ngành mỹ phẩm.
+Xuất @output/outline-tuan.xlsx: Cột Ngày | Chủ đề | Góc độ | CTA
+
+
+Prompt 2: Viết bài hoàn chỉnh
+Đọc @output/outline-tuan.xlsx.
+Viết 7 bài hoàn chỉnh 150-200 từ/bài, chèn emoji, giọng gen Z.
+Lưu vào @output/bai-viet/ dạng bai-1.txt đến bai-7.txt
+
+
+Prompt 3: Tạo ảnh cho từng bài
+Đọc @output/bai-viet/ từ bai-1.txt đến bai-7.txt.
+Với mỗi bài, gen 1 ảnh 1080x1350 style Douyin, tông hồng pastel, có text headline.
+Lưu @output/anh-fb/img-1.png đến img-7.png
+
+
+Prompt 4: Xếp lịch đăng + caption
+Ghép @output/bai-viet/ + @output/anh-fb/ thành lịch đăng.
+Tạo @output/lich-dang.csv: Cột Ngày giờ | Caption | Tên file ảnh | Ghi chú giờ vàng 20h
+
+=====================================
+Kế toán - Check hóa đơn → Tổng hợp → Báo cáo sếp
+
+Prompt 1: Đọc hóa đơn tháng
+Quét folder @input/hoa-don-t5/ gồm 80 file PDF, JPG hóa đơn.
+Dùng OCR trích: Số HĐ | Ngày | NCC | Mã số thuế | Tiền hàng | VAT.
+Xuất @output/hoadon-tho.xlsx
+
+
+Prompt 2: Đối soát với sao kê
+So sánh @output/hoadon-tho.xlsx với file sao-ke-NH.xlsx.
+Đánh dấu: 'Đã thanh toán', 'Chưa TT', 'Lệch số tiền'.
+Thêm 2 cột 'Trạng thái' 'Chênh lệch' vào @output/hoadon-tho.xlsx
+
+
+Prompt 3: Tính chi phí theo phòng ban
+Đọc @output/hoadon-tho.xlsx và @ma-phong-ban.xlsx.
+Tổng hợp chi phí T5 theo từng phòng ban Marketing, Sales, Vận hành.
+Xuất @output/chi-phi-pb.xlsx: có biểu đồ cột
+
+
+Prompt 4: Viết báo cáo cho sếp
+Dựa vào @output/chi-phi-pb.xlsx.
+Viết @output/bao-cao-t5.docx: 1 trang A4, gồm 3 phần:
+1. Tổng chi T5 vs T4 tăng/giảm bao nhiêu %
+2. Top 3 khoản chi lớn nhất 
+3. 2 đề xuất cắt giảm chi phí tháng sau

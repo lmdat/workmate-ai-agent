@@ -1,0 +1,24 @@
+Đọc tất cả file CSV trong @input/leads/.
+Gộp thành 1 bảng tổng, chuẩn hóa cột: Tên KH | SĐT | SP đã mua | Giá trị | Kênh | Ngày mua.
+Phân tích: Top 5 SP bán chạy, Doanh thu theo kênh, Tỷ lệ khách mua lại.
+Tạo @output/bao-cao-thang-5.xlsx: 3 sheet 'Tong hop', 'Phan tich', 'Top KH VIP'.
+Tạo @output/email-cskh.txt: email cảm ơn + mã giảm giá 10% cho KH mua >2tr.
+
+Bước 1: Scan tất cả file .csv trong input/leads/ 
+Bước 2: Đọc + chuẩn hóa header, gộp data, xử lý duplicate SĐT
+Bước 3: Tính toán chỉ số: top SP, doanh thu kênh, LTV khách hàng
+Bước 4: Xuất file bao-cao-thang-5.xlsx với 3 sheet đúng yêu cầu
+Bước 5: Lọc KH mua >2tr, gen email-cskh.txt với nội dung cá nhân hóa
+
+============================================
+Đọc tất cả file .html trong @input/web/.
+Check theo checklist SEO.md: title <60 ký tự, có H1, meta description, alt ảnh, internal link.
+Tạo @output/audit-seo.xlsx: 6 cột URL | Lỗi Title | Lỗi Meta | Thiếu Alt | Thiếu Link | Điểm SEO.
+Tạo folder @output/fixed/: lưu 15 file .html đã tự sửa lỗi title, meta, alt.
+Tạo @output/bao-cao-sep.docx: tóm tắt 3 lỗi phổ biến nhất + đề xuất action cho team content.
+
+Bước 1: Đọc 15 file .html trong input/web/ và checklist SEO.md
+Bước 2: Parse HTML check từng tiêu chí: title, H1, meta, alt, internal link
+Bước 3: Chấm điểm + log lỗi vào audit-seo.xlsx
+Bước 4: Tự rewrite phần <head>, thêm alt, internal link → lưu vào output/fixed/
+Bước 5: Tổng hợp lỗi, viết bao-cao-sep.docx giọng sếp dễ hiểu
