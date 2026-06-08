@@ -4,13 +4,13 @@ description: |
   Load skill này khi người dùng muốn tổng hợp hóa đơn, chi phí, expense report,
   báo cáo chi phí, quyết toán chi phí.
   Trigger khi nhắc đến: hóa đơn, invoice, expense, chi phí tháng, tổng hợp hóa đơn, đọc hóa đơn, extract invoice, expense report, quyết toán.
+permission:
+	websearch:	deny
 ---
 ## Mục đích
 
 Đọc ảnh hóa đơn, extract thông tin, xử lý quy đổi tỷ giá (nếu có USD), và tổng hợp vào expense report theo template.
 
-## Dependencies
-Yêu cầu phải có skill `ocr-image-lite`
 
 ## Các bước thực hiện — LUÔN thực hiện 2 bước tách biệt
 
@@ -20,7 +20,7 @@ Gọi Agent `@data-extractor` để đọc tất cả file trong `input/invoice/
 
 1. List tất cả file trong `input/invoice/`
 
-2. Sử dụng skill `ocr-image-lite`, đọc từng file, extract:
+2. Đọc từng file ảnh, extract:
    - Nhà cung cấp (Vendor)
    - Ngày hóa đơn
    - Loại chi phí (tự phân loại: Văn phòng phẩm / Dịch vụ / Tiếp khách / SaaS / Cloud / Khác)
@@ -29,7 +29,7 @@ Gọi Agent `@data-extractor` để đọc tất cả file trong `input/invoice/
      - VAT (nếu có)
      - Total (Tổng cộng)
 3. Với hóa đơn USD:
-   - Mở trình duyệt Chrome (Sử dụng MCP Chrome DevTools): tìm "tỷ giá USD VNĐ ngân hàng ACB hôm nay"
+   - Dùng Chrome DevTools mở link: https://acb.com.vn/ty-gia-hoi-doai
    - Lấy tỷ giá bán (selling rate) — ghi rõ tỷ giá và ngày lấy
    - Tính quy đổi VNĐ = USD × tỷ giá
    - Ghi cả 2 cột: Ngoại tệ (USD) | Quy đổi VNĐ
