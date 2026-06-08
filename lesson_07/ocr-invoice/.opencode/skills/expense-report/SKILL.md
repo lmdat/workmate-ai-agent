@@ -4,9 +4,8 @@ description: |
   Load skill này khi người dùng muốn tổng hợp hóa đơn, chi phí, expense report,
   báo cáo chi phí, quyết toán chi phí.
   Trigger khi nhắc đến: hóa đơn, invoice, expense, chi phí tháng, tổng hợp hóa đơn, đọc hóa đơn, extract invoice, expense report, quyết toán.
-permission:
-	websearch:	deny
 ---
+
 ## Mục đích
 
 Đọc ảnh hóa đơn, extract thông tin, xử lý quy đổi tỷ giá (nếu có USD), và tổng hợp vào expense report theo template.
