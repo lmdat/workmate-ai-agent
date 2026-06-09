@@ -22,7 +22,7 @@ Kiểm tra thư mục `tmp/` xem đã có file nào tên bắt đầu bằng `ma
 
 ### Bước 1 — Anonymize file báo cáo
 
-Dùng skill `@data-anonymity` với flag `--keep-number` để anonymize toàn bộ file trong `input/report/` theo tháng-năm cần dùng làm report.
+Dùng skill `data-anonymity` với flag `--keep-number` để anonymize toàn bộ file trong `input/report/` theo tháng-năm cần dùng làm report.
 
 - Output (file đã mask) lưu vào `tmp/`, tên format: `masked_{tên_file_gốc}`
 - Mapping file lưu vào `tmp/`, tên format: `masked_{tên_file_gốc}_mapping.json`
