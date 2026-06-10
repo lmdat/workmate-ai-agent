@@ -1,0 +1,74 @@
+HỢP ĐỒNG ĐẠI LÝ PHÂN PHỐI
+Số: HD-DLPP-2026-012
+
+Ngày: 18 tháng 03 năm 2026
+
+BÊN GIAO ĐẠI LÝ (Principal):
+TechCorp Vietnam Ltd.
+123 Nguyễn Huệ, Quận 1, TP. Hồ Chí Minh | MST: 0312345678
+Đại diện: Nguyễn Minh Khoa — CEO
+
+BÊN ĐẠI LÝ (Agent):
+Công ty Cổ phần Công nghệ Đất Việt
+45 Đinh Tiên Hoàng, Quận 1, TP. Hồ Chí Minh | MST: 0305678901
+Đại diện: Lê Văn Thành — Giám Đốc Điều Hành
+
+ĐIỀU 1: PHẠM VI ĐẠI LÝ
+
+1.1 TechCorp ủy quyền cho Đất Việt phân phối sản phẩm OpenCode Desktop
+    tại khu vực: TP. Hồ Chí Minh, Bình Dương, Đồng Nai, Long An, Tiền Giang.
+
+1.2 Đây là quyền phân phối KHÔNG ĐỘC QUYỀN.
+
+⚠️ GHI CHÚ: Non-exclusive — TechCorp được phép bổ sung đại lý khác cùng khu vực.
+
+ĐIỀU 2: HOA HỒNG VÀ DOANH THU
+
+2.1 Hoa hồng cho Đất Việt:
+    - Doanh thu từ Đất Việt introduce < 2 tỷ/năm: 15%
+    - Doanh thu từ 2 tỷ đến 5 tỷ/năm: 18%
+    - Doanh thu trên 5 tỷ/năm: 20%
+
+2.2 Hoa hồng được thanh toán hàng tháng, trong vòng 30 ngày sau khi khách hàng
+    thanh toán cho TechCorp.
+
+2.3 KPI tối thiểu cho Đất Việt: 1,5 tỷ VNĐ doanh thu/năm.
+
+2.4 Nếu Đất Việt không đạt KPI 2 năm liên tiếp: TechCorp có quyền
+    chấm dứt hợp đồng với 60 ngày thông báo.
+
+ĐIỀU 3: NGHĨA VỤ MARKETING VÀ BÁN HÀNG
+
+3.1 Đất Việt cam kết:
+    (a) Duy trì đội Sales tối thiểu 3 người chuyên phụ trách sản phẩm TechCorp
+    (b) Tham dự training sản phẩm hàng quý do TechCorp tổ chức
+    (c) Báo cáo pipeline hàng tuần theo format TechCorp
+    (d) Không bán sản phẩm cạnh tranh trực tiếp với OpenCode Desktop
+
+⚠️ LƯU Ý: Điều khoản 3.1(d) — cần định nghĩa "cạnh tranh trực tiếp" rõ ràng hơn.
+Hiện tại có thể hiểu theo nhiều cách, dễ dẫn đến tranh chấp.
+
+ĐIỀU 4: SỬ DỤNG THƯƠNG HIỆU
+
+4.1 Đất Việt được phép dùng logo và tên TechCorp Vietnam trong tài liệu marketing.
+4.2 Mọi nội dung có thương hiệu TechCorp phải được TechCorp approve trước khi phát hành.
+4.3 Sau khi hợp đồng chấm dứt: Đất Việt phải xóa toàn bộ tài liệu có thương hiệu
+    TechCorp trong vòng 30 ngày.
+
+ĐIỀU 5: THỜI HẠN
+
+5.1 Hợp đồng có hiệu lực 2 năm từ ngày ký (đến 17/03/2028).
+5.2 Gia hạn: phải có văn bản thỏa thuận trước 90 ngày hết hạn.
+
+ĐIỀU 6: BẢO MẬT VÀ KHÔNG CẠNH TRANH SAU HỢP ĐỒNG
+
+6.1 Trong 12 tháng sau khi hợp đồng chấm dứt, Đất Việt không được:
+    - Tuyển dụng nhân viên Sales của TechCorp
+    - Tiếp cận các khách hàng mà Đất Việt đã introduce cho TechCorp
+      để bán sản phẩm cạnh tranh
+
+⚠️ LƯU Ý: Điều khoản post-contract non-compete với khách hàng là khá chặt.
+Đất Việt có thể phản đối khi ký — nên chuẩn bị phương án thương lượng.
+
+ĐẠI DIỆN BÊN GIAO ĐẠI LÝ               ĐẠI DIỆN BÊN ĐẠI LÝ
+TechCorp Vietnam Ltd.                    Công ty CP Công nghệ Đất Việt

@@ -1,0 +1,120 @@
+HỢP ĐỒNG DỊCH VỤ CÔNG NGHỆ THÔNG TIN
+Số: HDCN-2026-0847
+
+Căn cứ Bộ luật Dân sự năm 2015;
+Căn cứ Luật Thương mại năm 2005;
+Căn cứ nhu cầu và khả năng của các bên,
+
+Hôm nay, ngày 20 tháng 03 năm 2026, tại TP. Hồ Chí Minh, chúng tôi gồm:
+
+BÊN A (BÊN CUNG CẤP DỊCH VỤ):
+Công ty: Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel)
+Địa chỉ: Số 1 Giang Văn Minh, Ba Đình, Hà Nội
+MST: 0100109106-001
+Đại diện: Ông Nguyễn Văn Hùng — Giám đốc Kinh doanh
+(Sau đây gọi là "Viettel")
+
+BÊN B (KHÁCH HÀNG):
+Công ty: TechCorp Vietnam Ltd.
+Địa chỉ: 123 Nguyễn Huệ, Quận 1, TP. Hồ Chí Minh
+MST: 0312345678
+Đại diện: Ông Nguyễn Minh Khoa — Tổng Giám Đốc
+(Sau đây gọi là "TechCorp")
+
+ĐIỀU 1: ĐỐI TƯỢNG HỢP ĐỒNG
+
+1.1 Viettel cung cấp cho TechCorp các dịch vụ Cloud Computing theo gói Enterprise:
+    - Viettel Cloud Server: 10 vCPU, 40GB RAM, 500GB SSD
+    - Viettel Cloud Storage: 10TB
+    - Bandwidth quốc tế: 100Mbps không giới hạn
+    - Viettel CDN: 10TB/tháng
+    - Hỗ trợ kỹ thuật 24/7: SLA 99.95% uptime
+
+1.2 Dịch vụ được cung cấp tại Data Center Viettel (Tier III), Hà Nội và TP.HCM.
+
+ĐIỀU 2: GIÁ TRỊ HỢP ĐỒNG VÀ THANH TOÁN
+
+2.1 Tổng giá trị hợp đồng: 180.000.000 VNĐ/năm (Một trăm tám mươi triệu đồng)
+    Đã bao gồm VAT 10%.
+
+2.2 Lịch thanh toán:
+    - Đợt 1: 90.000.000 VNĐ — trong vòng 15 ngày kể từ ngày ký
+    - Đợt 2: 90.000.000 VNĐ — sau 6 tháng kể từ ngày ký
+
+2.3 Hình thức thanh toán: Chuyển khoản ngân hàng
+    Tài khoản Viettel: 0101000123456 tại Ngân hàng Vietcombank
+
+ĐIỀU 3: THỜI HẠN HỢP ĐỒNG
+
+3.1 Hợp đồng có hiệu lực từ ngày 01/04/2026 đến ngày 31/03/2027 (12 tháng).
+
+3.2 Gia hạn tự động: Hợp đồng tự động gia hạn thêm 12 tháng nếu không có thông báo
+    chấm dứt bằng văn bản trước 60 ngày hết hạn.
+
+⚠️ LƯU Ý: Điều khoản gia hạn tự động — cần xem xét kỹ.
+
+ĐIỀU 4: QUYỀN VÀ NGHĨA VỤ CÁC BÊN
+
+4.1 Nghĩa vụ của Viettel:
+    a) Cung cấp dịch vụ đúng thông số kỹ thuật đã cam kết
+    b) Đảm bảo SLA: uptime ≥ 99.95% (tối đa 4.38 giờ downtime/năm)
+    c) Hỗ trợ kỹ thuật 24/7 qua hotline và email
+    d) Thông báo trước 30 ngày nếu có thay đổi về hạ tầng kỹ thuật
+
+4.2 Nghĩa vụ của TechCorp:
+    a) Thanh toán đúng hạn theo Điều 2
+    b) Sử dụng dịch vụ đúng mục đích, không vi phạm pháp luật
+    c) Chịu trách nhiệm về dữ liệu lưu trữ trên hệ thống
+
+ĐIỀU 5: BẢO MẬT THÔNG TIN
+
+5.1 Cả hai bên cam kết bảo mật thông tin kinh doanh, kỹ thuật của nhau trong suốt
+    thời hạn hợp đồng và 3 năm sau khi chấm dứt.
+
+5.2 Dữ liệu của TechCorp lưu trên hệ thống Viettel:
+    - Viettel không được tiết lộ cho bên thứ ba
+    - Viettel có quyền backup và replicate dữ liệu cho mục đích DR (Disaster Recovery)
+
+⚠️ LƯU Ý: Điều khoản Viettel có quyền replicate dữ liệu — cần làm rõ phạm vi.
+
+ĐIỀU 6: PHẠT VI PHẠM VÀ BỒI THƯỜNG
+
+6.1 Viettel vi phạm SLA (uptime < 99.95%):
+    - Giảm trừ phí dịch vụ: 10% phí tháng đó cho mỗi giờ vượt quá downtime cho phép
+    - Tối đa: 30% phí tháng đó
+
+6.2 TechCorp thanh toán trễ hạn:
+    - Phạt 0.05%/ngày trên số tiền chậm thanh toán
+    - Viettel có quyền tạm ngừng dịch vụ sau 30 ngày quá hạn mà không bồi thường
+
+⚠️ LƯU Ý: Phạt 0.05%/ngày = ~18.25%/năm — cao hơn lãi suất ngân hàng thông thường.
+
+ĐIỀU 7: CHẤM DỨT HỢP ĐỒNG TRƯỚC HẠN
+
+7.1 TechCorp chấm dứt trước hạn không có lý do:
+    - Phải thông báo trước 90 ngày bằng văn bản
+    - Phải thanh toán 30% giá trị hợp đồng còn lại như phí chấm dứt sớm
+
+7.2 Viettel chấm dứt trước hạn do lỗi kỹ thuật nghiêm trọng:
+    - Hoàn trả 100% phí dịch vụ chưa sử dụng
+    - Hỗ trợ migration data trong 30 ngày
+
+⚠️ LƯU Ý: Phí chấm dứt sớm 30% rất cao — cân nhắc kỹ trước khi ký.
+
+ĐIỀU 8: GIẢI QUYẾT TRANH CHẤP
+
+8.1 Tranh chấp giải quyết bằng thương lượng trong 30 ngày.
+8.2 Nếu không thương lượng được: Trọng tài Thương mại Việt Nam (VIAC), TP.HCM.
+8.3 Chi phí trọng tài: bên thua chịu.
+
+ĐIỀU 9: ĐIỀU KHOẢN CHUNG
+
+9.1 Hợp đồng được lập thành 04 bản, mỗi bên giữ 02 bản, có giá trị pháp lý như nhau.
+9.2 Mọi thay đổi phải bằng văn bản có chữ ký của cả hai bên.
+9.3 Hợp đồng này thay thế mọi thỏa thuận miệng hoặc văn bản trước đó.
+
+ĐẠI DIỆN BÊN A                          ĐẠI DIỆN BÊN B
+(Ký tên, đóng dấu)                       (Ký tên, đóng dấu)
+
+Nguyễn Văn Hùng                          Nguyễn Minh Khoa
+Giám đốc Kinh doanh - Viettel            Tổng Giám Đốc - TechCorp Vietnam

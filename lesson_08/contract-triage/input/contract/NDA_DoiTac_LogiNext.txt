@@ -1,0 +1,93 @@
+THỎA THUẬN BẢO MẬT THÔNG TIN (NDA)
+Non-Disclosure Agreement
+Số: NDA-2026-TCV-041
+
+Ngày ký: 22 tháng 03 năm 2026
+
+CÁC BÊN THAM GIA:
+
+Bên thứ nhất (Party A):
+TechCorp Vietnam Ltd.
+123 Nguyễn Huệ, Quận 1, TP. Hồ Chí Minh
+Đại diện: Nguyễn Minh Khoa — CEO
+
+Bên thứ hai (Party B):
+LogiNext Solutions Pte. Ltd.
+30 Cecil Street, Singapore 049712
+Đại diện: Rahul Sharma — CEO
+
+(Cả hai bên sau đây gọi chung là "Các Bên")
+
+1. MỤC ĐÍCH
+
+Các Bên đang đánh giá khả năng hợp tác kinh doanh liên quan đến việc tích hợp
+sản phẩm và phân phối tại thị trường Việt Nam và Đông Nam Á. NDA này thiết lập
+khung bảo mật cho quá trình thảo luận và chia sẻ thông tin.
+
+2. ĐỊNH NGHĨA "THÔNG TIN BẢO MẬT"
+
+Bao gồm nhưng không giới hạn: code nguồn, thuật toán, dữ liệu khách hàng,
+chiến lược kinh doanh, roadmap sản phẩm, báo cáo tài chính nội bộ,
+thông tin nhân sự, và bất kỳ thông tin nào được đánh dấu "CONFIDENTIAL".
+
+3. NGHĨA VỤ BẢO MẬT
+
+3.1 Mỗi bên cam kết:
+    (a) Không tiết lộ Thông tin Bảo mật cho bên thứ ba khi chưa có sự đồng ý bằng văn bản
+    (b) Chỉ sử dụng thông tin nhận được cho Mục đích đã nêu
+    (c) Bảo vệ thông tin với mức độ không kém hơn bảo vệ thông tin của chính mình
+
+3.2 Ngoại lệ: nghĩa vụ không áp dụng nếu thông tin:
+    (a) Đã công khai trước khi nhận
+    (b) Do bên thứ ba tiết lộ hợp pháp
+    (c) Được phát triển độc lập mà không dùng thông tin nhận được
+    (d) Được yêu cầu tiết lộ theo lệnh của cơ quan có thẩm quyền
+
+4. THỜI HẠN
+
+4.1 NDA có hiệu lực từ ngày ký và kéo dài 3 năm.
+
+⚠️ LƯU Ý: Thời hạn 3 năm là bình thường với NDA đánh giá hợp tác.
+
+4.2 Nghĩa vụ bảo mật tiếp tục có hiệu lực 2 năm SAU KHI NDA hết hạn.
+
+⚠️ LƯU Ý: Tổng thời gian thực sự là 5 năm (3+2) — dài hơn thông thường.
+
+5. SỞ HỮU TRÍ TUỆ
+
+5.1 NDA không chuyển nhượng bất kỳ quyền sở hữu trí tuệ nào.
+5.2 Mọi IP tạo ra trong quá trình thảo luận thuộc về bên tạo ra.
+
+6. KHÔNG CẠNH TRANH (Non-Compete)
+
+6.1 Trong thời hạn NDA, mỗi bên không được phát triển sản phẩm cạnh tranh
+    trực tiếp dựa trên thông tin nhận được từ bên kia.
+
+⚠️ LƯU Ý: Điều khoản Non-Compete trong NDA đánh giá hợp tác là KHÔNG THÔNG THƯỜNG.
+Cần làm rõ "cạnh tranh trực tiếp" nghĩa là gì. Có thể hạn chế quyền phát triển
+sản phẩm của TechCorp sau khi đàm phán thất bại.
+
+7. KHÔNG TUYỂN DỤNG (Non-Solicitation)
+
+7.1 Trong 12 tháng sau khi NDA chấm dứt, mỗi bên không được tuyển dụng
+    nhân viên của bên kia mà không có sự đồng ý bằng văn bản.
+
+8. PHẠT VI PHẠM
+
+8.1 Vi phạm NDA: bên vi phạm chịu thiệt hại thực tế + khoản phạt cố định
+    SGD 500,000 (tương đương ~9 tỷ VNĐ theo tỷ giá hiện tại).
+
+⚠️ LƯU Ý: Phạt cố định SGD 500k là RẤT CAO cho NDA đánh giá hợp tác.
+Cần thương lượng giảm xuống hoặc bỏ khoản phạt cố định này.
+
+9. LUẬT ÁP DỤNG VÀ GIẢI QUYẾT TRANH CHẤP
+
+9.1 Luật Singapore áp dụng (không phải luật Việt Nam).
+
+⚠️ LƯU Ý: Luật Singapore — chi phí tranh tụng có thể rất cao nếu có tranh chấp.
+Xem xét đề xuất luật Việt Nam hoặc Singapore với điều khoản phân xử tại Hà Nội/TP.HCM.
+
+9.2 Tranh chấp giải quyết tại SIAC (Singapore International Arbitration Centre).
+
+ĐẠI DIỆN BÊN A                          ĐẠI DIỆN BÊN B
+TechCorp Vietnam Ltd.                    LogiNext Solutions Pte. Ltd.
