@@ -1,12 +1,12 @@
 {
     "$schema": "https://opencode.ai/config.json",
     "mcp": {
-        "excalidraw": {
+        "excalidraw-mcp": {
             "type": "local",
             "command": ["npx", "-y", "@scofieldfree/excalidraw-mcp"],
-            "enabled": true
+            "enabled": false
         },
-        "chrome-devtools": {
+        "chrome-devtools-mcp": {
             "type": "local",
             "command": [
                 "npx", 
@@ -15,7 +15,7 @@
             ],
             "enabled": true
         },
-        "tavily-local": {
+        "tavily-local-mcp": {
             "type": "local",
             "command": [
                 "npx",
@@ -27,10 +27,23 @@
             },
             "enabled": true
         },
-        "tavily-remote": {
+        "tavily-remote-mcp": {
             "type": "remote",
             "url": "https://mcp.tavily.com/mcp/?tavilyApiKey=YOUR_API_KEY",
             "enabled": false
+        },
+		"google-sheets-mcp": {
+            "type": "local",
+            "command": [
+                "npx", "-y", "@lmdat/google-sheets-oauth-mcp@latest"
+            ],
+            "timeout": 15000,
+            "enabled": true,
+            "environment": {
+                "GOOGLE_OAUTH_CLIENT_ID": "",
+                "GOOGLE_OAUTH_CLIENT_SECRET": "",                
+                "MCP_GSHEETS_TOKEN_DIR": "C:\\Users\\<USERNAME>\\.config\\mcp-googlesheet"
+            }
         }
     }
 }
